@@ -21,6 +21,6 @@
 		IPK <input type="number" name="ipk" min="0" max="4" step="0.01" required="required"> <br/>
 		<input type="submit" value="Simpan Data">
 	</form>
- 
+
 </body>
 </html>

@@ -24,6 +24,5 @@
 	</form>
 	@endforeach
 		
- 
 </body>
 </html>
