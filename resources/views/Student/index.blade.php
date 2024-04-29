@@ -6,6 +6,9 @@
 <body>
  
 	<h2>Dashboard</h2>
+	<p>
+		Ini adalah Database mahasiswa Kelas Pemrograman Web Kelas A
+	</p>
 	<h3>Data mahasiswa</h3>
  
 	<a href="/student/add"> + Tambah data mahasiswa</a>
